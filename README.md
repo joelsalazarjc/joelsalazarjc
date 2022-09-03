@@ -1,5 +1,5 @@
 - 👋 Hola soy Joel Salazar
 - 👀 Me interesa mucho aprender nuevas tecnologías
-- 🌱 Actualmentes estoy aprendiendo y profundizando en temas de backend con .NET
+- 🌱 Actualmentes estoy profundizando en temas de backend con .NET
 - 💞️ Busco colaborar con personas con la misma afinidad a la mia
 - 📫 Puedes buscarme en redes con mi nombre @joelsalazarjc
